@@ -1,0 +1,2 @@
+2025-06-11 00:58:27 [INFO]: Golf API Analytics Backend started {"port":3001,"environment":"development","nodeVersion":"v22.11.0"}
+2025-06-11 01:04:01 [INFO]: Received SIGINT, starting graceful shutdown
